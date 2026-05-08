@@ -1,0 +1,6 @@
+{
+  "name": "BodyBalance AI",
+  "description": "A health-aware e-commerce platform that calculates BMI and proportionality to recommend tailored fitness products and apparel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
